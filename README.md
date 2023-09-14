@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geniuswhizard
-- 👀 I’m interested in Ethical Hacking, Computer Systems and Networks plus Cybersecurity.
+- 👀 I’m interested in Cyber Security, Ethical Hacking, Threat Analysis And Information Security.
 - 🌱 I’m currently learning ... Malaware and Ransomware Analysis 
-- 💞️ I’m looking to collaborate on ... Ethical Hacking, Cybersecurity and Malaware and Ransomware Analysis 
+- 💞️ I’m looking to collaborate on ... Cyber Security, Ethical Hacking, Threat Analysis And Information Security 
 - 📫 How to reach me ...
 
 <!---
